@@ -1,3 +1,33 @@
-.jumbotron{
-    background-color: transparent;
+/* homepage */
+a{
+  color:black;
 }
+
+.jumbotron{
+  background: transparent;
+}
+
+.lead{
+  padding-left: 125px;
+}
+
+
+/* biography page */
+  h1 {
+    font-family: 'Charm';
+    font-size: 30px;
+    color:black;
+    padding-left: 125px;
+  }
+
+  /*experience page */
+.pod{
+  height:500px;
+  width:900px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+
